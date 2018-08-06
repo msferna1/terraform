@@ -1,1 +1,2 @@
-
+# File Types To Ignore.
+**/*.tfvars
